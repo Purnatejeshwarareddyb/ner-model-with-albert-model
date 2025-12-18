@@ -1,0 +1,1529 @@
+Supreme B-ORG
+Court I-ORG
+of I-ORG
+India I-ORG
+delivered O
+judgment O
+on O
+12th B-DATE
+July I-DATE
+2024 I-DATE
+. O
+
+Article B-LAW
+370 I-LAW
+was O
+abrogated O
+. O
+
+Justice B-PERSON
+Ravi I-PERSON
+Menon I-PERSON
+heard O
+the O
+case O
+. O
+
+Section B-LAW
+302 I-LAW
+IPC I-LAW
+applies O
+here O
+. O
+
+Delhi B-ORG
+High I-ORG
+Court I-ORG
+ruled O
+on O
+5th B-DATE
+March I-DATE
+2023 I-DATE
+. O
+
+Supreme B-ORG
+Court I-ORG
+delivered O
+verdict O
+on O
+15th B-DATE
+March I-DATE
+2023 I-DATE
+. O
+
+Justice B-PERSON
+Ajay I-PERSON
+Kumar I-PERSON
+heard O
+arguments O
+. O
+
+Section B-LAW
+498A I-LAW
+IPC I-LAW
+addresses O
+cruelty O
+. O
+
+Shah B-CASE
+Bano I-CASE
+vs I-CASE
+Union I-CASE
+of I-CASE
+India I-CASE
+provided O
+compensation O
+. O
+
+Delhi B-ORG
+High I-ORG
+Court I-ORG
+issued O
+notice O
+. O
+
+Karnataka B-ORG
+High I-ORG
+Court I-ORG
+took O
+cognizance O
+of O
+the O
+petition. O
+
+Justice B-PERSON
+Neha I-PERSON
+Verma I-PERSON
+observed O
+the O
+legal O
+provisions. O
+
+Allahabad B-ORG
+High I-ORG
+Court I-ORG
+delivered O
+its O
+judgment O
+on O
+12th B-DATE
+December I-DATE
+2022. I-DATE
+
+The O
+counsel O
+relied O
+on O
+Article B-LAW
+14. I-LAW
+
+The O
+petitioner O
+cited O
+Article B-LAW
+14 I-LAW
+in O
+the O
+arguments. O
+
+The O
+court O
+examined O
+Section B-LAW
+302 I-LAW
+IPC I-LAW
+in O
+detail. O
+
+Calcutta B-ORG
+High I-ORG
+Court I-ORG
+took O
+cognizance O
+of O
+the O
+petition. O
+
+The O
+court O
+examined O
+Information B-LAW
+Technology I-LAW
+Act I-LAW
+2000 I-LAW
+in O
+detail. O
+
+Justice B-PERSON
+Kavita I-PERSON
+Rao I-PERSON
+presided O
+over O
+the O
+hearing. O
+
+The O
+counsel O
+relied O
+on O
+Article B-LAW
+21 I-LAW
+of I-LAW
+the I-LAW
+Constitution I-LAW
+of I-LAW
+India. I-LAW
+
+Justice B-PERSON
+Ramesh I-PERSON
+Kumar I-PERSON
+reserved O
+the O
+judgment. O
+
+Justice B-PERSON
+Rajiv I-PERSON
+Malhotra I-PERSON
+reserved O
+the O
+judgment. O
+
+Senior B-PERSON
+Advocate I-PERSON
+Sanjay I-PERSON
+Dubey I-PERSON
+submitted O
+written O
+arguments. O
+
+The O
+counsel O
+relied O
+on O
+Consumer B-LAW
+Protection I-LAW
+Act I-LAW
+2019. I-LAW
+
+The O
+matter O
+was O
+listed O
+before O
+Punjab B-ORG
+and I-ORG
+Haryana I-ORG
+High I-ORG
+Court. I-ORG
+
+Justice B-PERSON
+Ramesh I-PERSON
+Kumar I-PERSON
+observed O
+the O
+legal O
+provisions. O
+
+The O
+case O
+was O
+filed O
+as O
+Writ O
+Petition O
+No. O
+5678/2024. O
+
+Punjab B-ORG
+and I-ORG
+Haryana I-ORG
+High I-ORG
+Court I-ORG
+took O
+cognizance O
+of O
+the O
+petition. O
+
+The O
+counsel O
+relied O
+on O
+Section B-LAW
+302 I-LAW
+IPC. I-LAW
+
+Calcutta B-ORG
+High I-ORG
+Court I-ORG
+took O
+cognizance O
+of O
+the O
+petition. O
+
+Justice B-PERSON
+Meera I-PERSON
+Reddy I-PERSON
+heard O
+the O
+matter O
+on O
+3rd B-DATE
+February I-DATE
+2024. I-DATE
+
+The O
+matter O
+was O
+listed O
+before O
+Gujarat B-ORG
+High I-ORG
+Court. I-ORG
+
+Advocate B-PERSON
+Nisha I-PERSON
+Kapoor I-PERSON
+submitted O
+written O
+arguments. O
+
+Allahabad B-ORG
+High I-ORG
+Court I-ORG
+took O
+cognizance O
+of O
+the O
+petition. O
+
+The O
+petitioner O
+cited O
+Information B-LAW
+Technology I-LAW
+Act I-LAW
+2000 I-LAW
+in O
+the O
+arguments. O
+
+The O
+counsel O
+relied O
+on O
+Consumer B-LAW
+Protection I-LAW
+Act I-LAW
+2019. I-LAW
+
+The O
+case O
+was O
+filed O
+as O
+Criminal O
+Appeal O
+No. O
+9876/2022. O
+
+Justice B-PERSON
+Neha I-PERSON
+Verma I-PERSON
+presided O
+over O
+the O
+hearing. O
+
+Justice B-PERSON
+Ramesh I-PERSON
+Kumar I-PERSON
+heard O
+the O
+matter O
+on O
+3rd B-DATE
+February I-DATE
+2024. I-DATE
+
+Rajasthan B-ORG
+High I-ORG
+Court I-ORG
+delivered O
+its O
+judgment O
+on O
+7th B-DATE
+April I-DATE
+2024. I-DATE
+
+The O
+counsel O
+relied O
+on O
+Consumer B-LAW
+Protection I-LAW
+Act I-LAW
+2019. I-LAW
+
+Reference O
+was O
+made O
+to O
+Case O
+No. O
+12345/2023. O
+
+Madras B-ORG
+High I-ORG
+Court I-ORG
+took O
+cognizance O
+of O
+the O
+petition. O
+
+Justice B-PERSON
+Meera I-PERSON
+Reddy I-PERSON
+presided O
+over O
+the O
+hearing. O
+
+Punjab B-ORG
+and I-ORG
+Haryana I-ORG
+High I-ORG
+Court I-ORG
+delivered O
+its O
+judgment O
+on O
+10th B-DATE
+September I-DATE
+2022. I-DATE
+
+Reference O
+was O
+made O
+to O
+Civil O
+Appeal O
+No. O
+3456/2023. O
+
+Justice B-PERSON
+Sunita I-PERSON
+Singh I-PERSON
+presided O
+over O
+the O
+hearing. O
+
+Justice B-PERSON
+Rajiv I-PERSON
+Malhotra I-PERSON
+reserved O
+the O
+judgment. O
+
+Proceedings O
+commenced O
+on O
+20th B-DATE
+October I-DATE
+2023. I-DATE
+
+The O
+case O
+was O
+filed O
+as O
+Criminal O
+Appeal O
+No. O
+9876/2022. O
+
+Madras B-ORG
+High I-ORG
+Court I-ORG
+took O
+cognizance O
+of O
+the O
+petition. O
+
+Reference O
+was O
+made O
+to O
+PIL O
+No. O
+1234/2022. O
+
+Kerala B-ORG
+High I-ORG
+Court I-ORG
+delivered O
+its O
+judgment O
+on O
+5th B-DATE
+May I-DATE
+2024. I-DATE
+
+The O
+court O
+examined O
+Section B-LAW
+420 I-LAW
+of I-LAW
+the I-LAW
+Indian I-LAW
+Penal I-LAW
+Code I-LAW
+in O
+detail. O
+
+Supreme B-ORG
+Court I-ORG
+of I-ORG
+India I-ORG
+took O
+cognizance O
+of O
+the O
+petition. O
+
+The O
+matter O
+was O
+listed O
+before O
+Madras B-ORG
+High I-ORG
+Court. I-ORG
+
+The O
+petitioner O
+cited O
+Motor B-LAW
+Vehicles I-LAW
+Act I-LAW
+1988 I-LAW
+in O
+the O
+arguments. O
+
+Justice B-PERSON
+Priya I-PERSON
+Sharma I-PERSON
+reserved O
+the O
+judgment. O
+
+The O
+petitioner O
+cited O
+Section B-LAW
+376 I-LAW
+IPC I-LAW
+in O
+the O
+arguments. O
+
+The O
+petitioner O
+cited O
+Companies B-LAW
+Act I-LAW
+2013 I-LAW
+in O
+the O
+arguments. O
+
+The O
+court O
+examined O
+Companies B-LAW
+Act I-LAW
+2013 I-LAW
+in O
+detail. O
+
+The O
+court O
+examined O
+Section B-LAW
+498A I-LAW
+IPC I-LAW
+in O
+detail. O
+
+Justice B-PERSON
+Priya I-PERSON
+Sharma I-PERSON
+observed O
+the O
+legal O
+provisions. O
+
+The O
+case O
+was O
+filed O
+as O
+Case O
+No. O
+12345/2023. O
+
+Justice B-PERSON
+Anil I-PERSON
+Gupta I-PERSON
+reserved O
+the O
+judgment. O
+
+Justice B-PERSON
+Anil I-PERSON
+Gupta I-PERSON
+heard O
+the O
+matter O
+on O
+18th B-DATE
+November I-DATE
+2023. I-DATE
+
+Advocate B-PERSON
+Pooja I-PERSON
+Agarwal I-PERSON
+submitted O
+written O
+arguments. O
+
+Advocate B-PERSON
+Anjali I-PERSON
+Khanna I-PERSON
+represented O
+the O
+defendant. O
+
+Justice B-PERSON
+Meera I-PERSON
+Reddy I-PERSON
+reserved O
+the O
+judgment. O
+
+Punjab B-ORG
+and I-ORG
+Haryana I-ORG
+High I-ORG
+Court I-ORG
+took O
+cognizance O
+of O
+the O
+petition. O
+
+Reference O
+was O
+made O
+to O
+Writ O
+Petition O
+No. O
+5678/2024. O
+
+The O
+counsel O
+relied O
+on O
+Information B-LAW
+Technology I-LAW
+Act I-LAW
+2000. I-LAW
+
+Bombay B-ORG
+High I-ORG
+Court I-ORG
+took O
+cognizance O
+of O
+the O
+petition. O
+
+The O
+matter O
+was O
+listed O
+before O
+Bombay B-ORG
+High I-ORG
+Court. I-ORG
+
+Justice B-PERSON
+Rajiv I-PERSON
+Malhotra I-PERSON
+reserved O
+the O
+judgment. O
+
+Reference O
+was O
+made O
+to O
+Special O
+Leave O
+Petition O
+No. O
+7890/2024. O
+
+The O
+counsel O
+relied O
+on O
+Motor B-LAW
+Vehicles I-LAW
+Act I-LAW
+1988. I-LAW
+
+Justice B-PERSON
+Anil I-PERSON
+Gupta I-PERSON
+presided O
+over O
+the O
+hearing. O
+
+Advocate B-PERSON
+Ravi I-PERSON
+Menon I-PERSON
+represented O
+the O
+defendant. O
+
+The O
+petitioner O
+cited O
+Article B-LAW
+32 I-LAW
+in O
+the O
+arguments. O
+
+The O
+counsel O
+relied O
+on O
+Information B-LAW
+Technology I-LAW
+Act I-LAW
+2000. I-LAW
+
+Justice B-PERSON
+Anil I-PERSON
+Gupta I-PERSON
+heard O
+the O
+matter O
+on O
+22nd B-DATE
+January I-DATE
+2023. I-DATE
+
+Karnataka B-ORG
+High I-ORG
+Court I-ORG
+took O
+cognizance O
+of O
+the O
+petition. O
+
+The O
+court O
+examined O
+Section B-LAW
+420 I-LAW
+of I-LAW
+the I-LAW
+Indian I-LAW
+Penal I-LAW
+Code I-LAW
+in O
+detail. O
+
+The O
+counsel O
+relied O
+on O
+Article B-LAW
+14. I-LAW
+
+The O
+petitioner O
+cited O
+Article B-LAW
+21 I-LAW
+of I-LAW
+the I-LAW
+Constitution I-LAW
+of I-LAW
+India I-LAW
+in O
+the O
+arguments. O
+
+Justice B-PERSON
+Sunita I-PERSON
+Singh I-PERSON
+heard O
+the O
+matter O
+on O
+7th B-DATE
+April I-DATE
+2024. I-DATE
+
+Proceedings O
+commenced O
+on O
+3rd B-DATE
+February I-DATE
+2024. I-DATE
+
+The O
+counsel O
+relied O
+on O
+Companies B-LAW
+Act I-LAW
+2013. I-LAW
+
+Advocate B-PERSON
+Nisha I-PERSON
+Kapoor I-PERSON
+submitted O
+written O
+arguments. O
+
+The O
+court O
+examined O
+Article B-LAW
+14 I-LAW
+in O
+detail. O
+
+Justice B-PERSON
+Sunita I-PERSON
+Singh I-PERSON
+heard O
+the O
+matter O
+on O
+20th B-DATE
+October I-DATE
+2023. I-DATE
+
+The O
+counsel O
+relied O
+on O
+Section B-LAW
+376 I-LAW
+IPC. I-LAW
+
+Justice B-PERSON
+Ramesh I-PERSON
+Kumar I-PERSON
+reserved O
+the O
+judgment. O
+
+Calcutta B-ORG
+High I-ORG
+Court I-ORG
+delivered O
+its O
+judgment O
+on O
+12th B-DATE
+December I-DATE
+2022. I-DATE
+
+Gujarat B-ORG
+High I-ORG
+Court I-ORG
+took O
+cognizance O
+of O
+the O
+petition. O
+
+Reference O
+was O
+made O
+to O
+Writ O
+Petition O
+No. O
+5678/2024. O
+
+Advocate B-PERSON
+Ravi I-PERSON
+Menon I-PERSON
+represented O
+the O
+defendant. O
+
+Advocate B-PERSON
+Karthik I-PERSON
+Iyer I-PERSON
+submitted O
+written O
+arguments. O
+
+The O
+petitioner O
+cited O
+Section B-LAW
+498A I-LAW
+IPC I-LAW
+in O
+the O
+arguments. O
+
+Rajasthan B-ORG
+High I-ORG
+Court I-ORG
+took O
+cognizance O
+of O
+the O
+petition. O
+
+The O
+court O
+examined O
+Section B-LAW
+420 I-LAW
+of I-LAW
+the I-LAW
+Indian I-LAW
+Penal I-LAW
+Code I-LAW
+in O
+detail. O
+
+Gujarat B-ORG
+High I-ORG
+Court I-ORG
+delivered O
+its O
+judgment O
+on O
+18th B-DATE
+November I-DATE
+2023. I-DATE
+
+Reference O
+was O
+made O
+to O
+Criminal O
+Writ O
+No. O
+4567/2024. O
+
+Justice B-PERSON
+Vikram I-PERSON
+Desai I-PERSON
+observed O
+the O
+legal O
+provisions. O
+
+The O
+counsel O
+relied O
+on O
+Article B-LAW
+32. I-LAW
+
+Advocate B-PERSON
+Ravi I-PERSON
+Menon I-PERSON
+submitted O
+written O
+arguments. O
+
+Justice B-PERSON
+Amit I-PERSON
+Patel I-PERSON
+heard O
+the O
+matter O
+on O
+25th B-DATE
+August I-DATE
+2023. I-DATE
+
+Senior B-PERSON
+Advocate I-PERSON
+Sanjay I-PERSON
+Dubey I-PERSON
+submitted O
+written O
+arguments. O
+
+Delhi B-ORG
+High I-ORG
+Court I-ORG
+took O
+cognizance O
+of O
+the O
+petition. O
+
+Supreme B-ORG
+Court I-ORG
+of I-ORG
+India I-ORG
+heard O
+the O
+appeal O
+filed O
+under O
+Article B-LAW
+226 I-LAW
+of I-LAW
+the O
+Constitution B-LAW
+of I-LAW
+India I-LAW
+. O
+
+Justice B-PERSON
+Arun I-PERSON
+Mishra I-PERSON
+delivered O
+the O
+final O
+judgment O
+on O
+5th B-DATE
+August I-DATE
+2023 I-DATE
+. O
+
+The O
+Delhi B-ORG
+High I-ORG
+Court I-ORG
+issued O
+a O
+notice O
+to O
+the O
+State B-ORG
+Government I-ORG
+in O
+Case B-CASE
+No. I-CASE
+122/2021 I-CASE
+. O
+
+Petitioner O
+Ravi B-PERSON
+Kumar I-PERSON
+alleged O
+violation O
+of O
+Section B-LAW
+420 I-LAW
+of I-LAW
+the O
+Indian B-LAW
+Penal I-LAW
+Code I-LAW
+. O
+
+The O
+respondent O
+firm O
+Tata B-ORG
+Motors I-ORG
+Limited I-ORG
+filed O
+its O
+reply O
+on O
+17th B-DATE
+March I-DATE
+2024 I-DATE
+. O
+
+Justice B-PERSON
+S. I-PERSON
+Ravindra I-PERSON
+Singh I-PERSON
+referred O
+to O
+the O
+Criminal B-LAW
+Procedure I-LAW
+Code I-LAW
+for O
+further O
+guidance O
+. O
+
+According O
+to O
+FIR O
+No. B-CASE
+48/2020 I-CASE
+registered O
+at O
+Hyderabad B-ORG
+Police I-ORG
+Station I-ORG
+, O
+the O
+accused O
+was O
+absconding O
+. O
+
+The O
+bench O
+consisting O
+of O
+Justice B-PERSON
+Ritu I-PERSON
+Malhotra I-PERSON
+and O
+Justice B-PERSON
+P. I-PERSON
+Verma I-PERSON
+dismissed O
+the O
+petition O
+. O
+
+A O
+new O
+writ O
+petition O
+was O
+filed O
+on O
+23rd B-DATE
+June I-DATE
+2022 I-DATE
+challenging O
+the O
+order O
+of O
+the O
+trial O
+court O
+. O
+
+The O
+Supreme B-ORG
+Court I-ORG
+cited O
+precedent O
+from O
+State B-CASE
+vs I-CASE
+Ramesh I-CASE
+( O
+2021 I-CASE
+) O
+. O
+
+The O
+applicant O
+claimed O
+immunity O
+under O
+Article B-LAW
+20 I-LAW
+of I-LAW
+the O
+Constitution B-LAW
+of I-LAW
+India I-LAW
+. O
+
+Case B-CASE
+No. I-CASE
+78/2019 I-CASE
+was O
+transferred O
+to O
+Chennai B-ORG
+District I-ORG
+Court I-ORG
+. O
+
+Advocate O
+Meena B-PERSON
+Krishnan I-PERSON
+represented O
+the O
+respondent O
+party O
+. O
+
+The O
+judgment O
+was O
+pronounced O
+on O
+12th B-DATE
+September I-DATE
+2025 I-DATE
+. O
+
+The O
+court O
+observed O
+that O
+Section B-LAW
+304 I-LAW
+of I-LAW
+IPC B-LAW
+was O
+applicable O
+. O
+
+A O
+special O
+leave O
+petition O
+was O
+filed O
+before O
+the O
+Supreme B-ORG
+Court I-ORG
+of I-ORG
+India I-ORG
+. O
+
+Justice B-PERSON
+Anil I-PERSON
+Deshmukh I-PERSON
+and O
+Justice B-PERSON
+Prerna I-PERSON
+Joshi I-PERSON
+heard O
+the O
+matter O
+. O
+
+On O
+8th B-DATE
+April I-DATE
+2024 I-DATE
+, O
+the O
+Bombay B-ORG
+High I-ORG
+Court I-ORG
+reserved O
+its O
+order O
+. O
+
+The O
+petition O
+in O
+Case B-CASE
+No. I-CASE
+211/2022 I-CASE
+was O
+allowed O
+in O
+part O
+. O
+
+The O
+accused O
+was O
+charged O
+under O
+Section B-LAW
+376 I-LAW
+of I-LAW
+the O
+Indian B-LAW
+Penal I-LAW
+Code I-LAW
+. O
+
+The O
+Central B-ORG
+Bureau I-ORG
+of I-ORG
+Investigation I-ORG
+submitted O
+the O
+charge O
+sheet O
+on O
+1st B-DATE
+May I-DATE
+2023 I-DATE
+. O
+
+Justice B-PERSON
+Rakesh I-PERSON
+Kumar I-PERSON
+dismissed O
+the O
+application O
+under O
+Section B-LAW
+482 I-LAW
+CrPC B-LAW
+. O
+
+The O
+court O
+took O
+note O
+of O
+Case B-CASE
+No. I-CASE
+315/2021 I-CASE
+State I-CASE
+vs I-CASE
+Anand I-CASE
+Patel I-CASE
+. O
+
+Petitioner O
+filed O
+an O
+appeal O
+under O
+Article B-LAW
+136 I-LAW
+of I-LAW
+the O
+Constitution B-LAW
+. O
+
+The O
+Madhya B-ORG
+Pradesh I-ORG
+High I-ORG
+Court I-ORG
+passed O
+an O
+interim O
+order O
+. O
+
+The O
+notice O
+was O
+issued O
+on O
+29th B-DATE
+January I-DATE
+2025 I-DATE
+. O
+
+Counsel O
+Amit B-PERSON
+Roy I-PERSON
+appeared O
+on O
+behalf O
+of O
+the O
+State B-ORG
+of I-ORG
+West I-ORG
+Bengal I-ORG
+. O
+
+Justice B-PERSON
+D. I-PERSON
+S. I-PERSON
+Sharma I-PERSON
+referred O
+to O
+Article B-LAW
+21 I-LAW
+. O
+
+A O
+fresh O
+complaint O
+was O
+lodged O
+under O
+Section B-LAW
+406 I-LAW
+of I-LAW
+IPC B-LAW
+. O
+
+The O
+Kerala B-ORG
+High I-ORG
+Court I-ORG
+directed O
+the O
+police O
+to O
+submit O
+the O
+status O
+report O
+. O
+
+Hearing O
+was O
+adjourned O
+to O
+16th B-DATE
+November I-DATE
+2024 I-DATE
+. O
+
+The O
+State B-ORG
+of I-ORG
+Maharashtra I-ORG
+filed O
+a O
+counter O
+affidavit O
+. O
+
+Case B-CASE
+No. I-CASE
+64/2018 I-CASE
+related O
+to O
+land O
+acquisition O
+. O
+
+Judge O
+Priya B-PERSON
+Menon I-PERSON
+recorded O
+the O
+final O
+statement O
+. O
+
+The O
+trial O
+was O
+conducted O
+on O
+3rd B-DATE
+February I-DATE
+2022 I-DATE
+. O
+
+An O
+appeal O
+under O
+Section B-LAW
+374 I-LAW
+CrPC B-LAW
+was O
+admitted O
+. O
+
+The O
+Rajasthan B-ORG
+High I-ORG
+Court I-ORG
+set O
+aside O
+the O
+conviction O
+. O
+
+Justice B-PERSON
+Kavita I-PERSON
+Reddy I-PERSON
+noted O
+non-compliance O
+with O
+Article B-LAW
+19 I-LAW
+. O
+
+The O
+Supreme B-ORG
+Court I-ORG
+affirmed O
+the O
+verdict O
+on O
+15th B-DATE
+July I-DATE
+2024 I-DATE
+. O
+
+An O
+FIR O
+was O
+registered O
+as O
+Case B-CASE
+No. I-CASE
+112/2023 I-CASE
+at O
+Lucknow B-ORG
+Police I-ORG
+Station I-ORG
+. O
+
+Advocate O
+Rina B-PERSON
+Patel I-PERSON
+appeared O
+for O
+the O
+defendant O
+. O
+
+The O
+Central B-ORG
+Government I-ORG
+invoked O
+Article B-LAW
+356 I-LAW
+. O
+
+The O
+petition O
+was O
+listed O
+for O
+final O
+hearing O
+on O
+22nd B-DATE
+August I-DATE
+2025 I-DATE
+. O
